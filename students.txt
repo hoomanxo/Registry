@@ -1,0 +1,90 @@
+0000000
+Bach
+Sebastian
+2222  22 Avenue
+Edmonton
+AB
+T2T 2T2
+780-222-2222
+bachs@telusplanet.net
+1111111
+Tchaikovsky
+Pyotr Ilyich
+3333  33 Street
+Vancouver
+BC
+V3V 3V3
+604-333-3333
+chaiko@connect.bc.ca
+2222222
+Strauss
+Johann
+4444  Vienna Crescent, North West
+Saskatoon
+SASK
+S4S 4S4
+306-444-4444
+jstrauss@frisky.net
+3333333
+Handel
+George Frideric
+Appartment 1685  1759 Hamburg Plaza
+Winnipeg
+MA
+W5W 5W5
+314-555-5555
+concerto@allegro.com
+4444444
+Vivaldi
+Antonio
+1678 66 Avenue
+Venez
+ON
+Z6Z 6Z6
+416-666-6666
+vivaldi@grosso.padrona.net
+5555555
+Mozart
+Wolfgang A.
+1756 Bavarian Boulevard
+Salzburg
+ON
+S0S 0S0
+416-555-5555
+magic@cs.flute.ca
+6666666
+Haydn
+Franz
+#66  Eszterhaza Place
+Mississauga
+ON
+M6M 6M6
+416-666-6666
+neusiedler@primrose.net
+7777777
+Beethoven
+Ludwig, Van
+777  Longandwinding Road
+Fort McMurray
+AB
+T7T 7T7
+780-777-7777
+ludwig@tihuana.brass.net
+8888888
+Mahler
+Gustav
+1860  Piazza del Torro 11
+Madrid
+Spain
+MS 6611
+66-123-888-888
+gustavm@europa.esp
+9999999
+Dvorak
+Antonin
+9999  Romantic Avenue
+Montreal
+QU
+Q9Q 9Q9
+816-999-999
+anton@orchestra.net

@@ -1,0 +1,18 @@
+COMP 111
+Relativity in Computing
+Alfred Einstein
+COMP 222
+Computers and Uncertainties
+Bradley Heisenberg
+COMP 333
+Robotics
+Chester Von Neumann
+COMP 444
+Sanity in a Digital World
+Douglas Freud
+COMP 555
+Management Systems
+Elmer Socrates
+COMP 666
+Systems Management
+Florence Damocles
