@@ -1,7 +1,4 @@
-// Decompiled by DJ v3.2.2.67 Copyright 2002 Atanas Neshkov  Date: 30/09/02 10:56:02 PM
-// Home Page : http://members.fortunecity.com/neshkov/dj.html  - Check often for new version!
-// Decompiler options: packimports(3) 
-// Source File Name:   MarkList.java
+
 
 import java.io.*;
 import java.util.Enumeration;
